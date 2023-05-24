@@ -1,2 +1,4 @@
 adicionando o arquivo rebase.txt
 Nova linha no arquivo rebase.txt
+[feature/arquivo_base d370676] Adicionando nova linha no arquivo rebase.txt
+ 1 file changed, 1 insertion(+)
